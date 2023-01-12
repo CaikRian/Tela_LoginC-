@@ -1,0 +1,12 @@
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\bin\Debug\LoginCharpAverso.exe.config
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\bin\Debug\LoginCharpAverso.exe
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\bin\Debug\LoginCharpAverso.pdb
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.csproj.AssemblyReference.cache
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.csproj.SuggestedBindingRedirects.cache
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.Properties.Resources.resources
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.csproj.GenerateResource.cache
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.exe
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.pdb
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.LoginC.resources
+C:\MAMP\htdocs\curso-totvs\LoginCharpAverso\LoginCharpAverso\obj\Debug\LoginCharpAverso.FormPrincipal.resources
